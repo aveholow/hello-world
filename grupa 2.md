@@ -16,7 +16,7 @@ Zapisz komendy dla poszczególnych operacji z wiersza poleceń. Dołącz do rozw
 12. Znajdź katalogi z `log` w nazwie w `/`, zapisz do `logs.txt`
 13. Skopiuj dane z `produkty.csv` (bez nagłówka), posortuj wg ceny rosnąco, dodaj numerację, zapisz do `.archiwum2.csv`
 14. Porównaj pliki `.archiwum.csv` i `.archiwum2.csv`
-15. Zamień przecinki w `.archiwum.csv` na spacje
+15. Zamień przecinki w `.archiwum2.csv` na spacje
 16. `sed`: wyświetl tylko produkty, których cena zawiera cyfrę 9
 17. `awk`: wypisz punkty montowania i oblicz sumaryczne użycie i wolne miejsce
 
